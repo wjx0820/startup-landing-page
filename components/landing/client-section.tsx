@@ -15,32 +15,32 @@ export default function ClientSection() {
             <ul className="flex flex-wrap items-center justify-center gap-x-10 gap-y-6 md:gap-x-16 [&_path]:fill-white">
               <li>
                 <img
-                  src={`https://cdn.magicui.design/companies/Google.svg`}
+                  src="Google.svg"
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
               <li>
                 <img
-                  src={`https://cdn.magicui.design/companies/Microsoft.svg`}
+                  src="Microsoft.svg"
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
               <li>
                 <img
-                  src={`https://cdn.magicui.design/companies/GitHub.svg`}
+                  src="GitHub.svg"
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
 
               <li>
                 <img
-                  src={`https://cdn.magicui.design/companies/Uber.svg`}
+                  src="Uber.svg"
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>
               <li>
                 <img
-                  src={`https://cdn.magicui.design/companies/Notion.svg`}
+                  src="Notion.svg"
                   className="h-8 w-28 px-2 dark:brightness-0 dark:invert"
                 />
               </li>

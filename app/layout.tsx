@@ -10,8 +10,8 @@ const fontSans = FontSans({
   variable: "--font-sans",
 });
 export const metadata: Metadata = {
-  title: "Magic UI",
-  description: "The startup template from Magic UI",
+  title: "SaaS UI",
+  description: "The startup template from SaaS UI",
 };
 
 export default function RootLayout({
