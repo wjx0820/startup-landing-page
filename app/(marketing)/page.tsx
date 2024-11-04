@@ -1,4 +1,3 @@
-import GlobeSection from "@/components/globe-section";
 import ClientSection from "@/components/landing/client-section";
 import CallToActionSection from "@/components/landing/cta-section";
 import HeroSection from "@/components/landing/hero-section";
@@ -13,7 +12,6 @@ export default async function Page() {
       <ClientSection />
       <SphereMask />
       <PricingSection />
-      <GlobeSection />
       <CallToActionSection />
       <ThemeParticles />
     </>
